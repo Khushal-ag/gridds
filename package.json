@@ -28,13 +28,13 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@grafbase/sdk": "^0.9.1",
+    "@grafbase/sdk": "^0.10.1",
     "@ianvs/prettier-plugin-sort-imports": "^4.1.1",
     "@total-typescript/ts-reset": "^0.5.1",
-    "@types/node": "^20.9.2",
-    "@types/react": "^18.2.37",
-    "@types/react-dom": "^18.2.15",
-    "@typescript-eslint/eslint-plugin": "^6.11.0",
+    "@types/node": "^20.10.0",
+    "@types/react": "^18.2.38",
+    "@types/react-dom": "^18.2.17",
+    "@typescript-eslint/eslint-plugin": "^6.12.0",
     "autoprefixer": "^10.4.16",
     "eslint": "^8.54.0",
     "eslint-config-next": "13.5.6",
@@ -45,6 +45,6 @@
     "prettier-plugin-tailwindcss": "^0.5.7",
     "tailwind-merge": "^1.14.0",
     "tailwindcss": "^3.3.5",
-    "typescript": "^5.2.2"
+    "typescript": "^5.3.2"
   }
 }
